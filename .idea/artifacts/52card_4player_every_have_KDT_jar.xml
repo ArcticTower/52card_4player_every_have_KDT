@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="52card_4player_every_have_KDT:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/52card_4player_every_have_KDT_jar</output-path>
+    <root id="archive" name="52card_4player_every_have_KDT.jar">
+      <element id="module-output" name="52card_4player_every_have_KDT" />
+    </root>
+  </artifact>
+</component>
